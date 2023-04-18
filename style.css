@@ -1,0 +1,12 @@
+.dog {
+    margin-left: 10px;
+    max-height: 300px;
+}
+
+.pink-text {
+    color: rgb(237, 17, 112);
+}
+
+.invisible {
+    display: none;
+}
